@@ -1,0 +1,13 @@
+Python
+Pandas
+NumPy
+Plotly (Visualization)
+Streamlit (Dashboard UI)
+Statsmodels 
+Arima
+Lstm
+Prophet
+TensorFlow/Keras 
+Prophet 
+TextBlob ---- NLP Sentiment Analysis
+Joblib 
